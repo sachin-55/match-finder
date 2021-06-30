@@ -1,0 +1,25 @@
+
+.img img
+{
+	height: 30%;
+	width: 20%;
+	border: 2px solid green;
+	border-radius: 30%;
+	margin: 10% 10px 0px 30%;
+
+}
+.btn
+{
+	clear: both;
+	padding: 5px;
+	
+}
+.btn input
+{
+	border: 2px solid gray;
+	border-radius: 6px;
+	background-color: blue;
+	color: white;
+	cursor: pointer;
+	margin:	0px 10px 0px 50%;
+}

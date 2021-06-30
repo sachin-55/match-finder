@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700');
+body
+{
+	margin: 0;
+}
+*
+{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+#left-sect
+{
+  float: left;
+  width: 28.40%;
+  height: auto;
+  display: inline-block;
+  margin: 0;
+  padding-left: 8px;
+  padding-right: 2px;
+  list-style-type: none;
+  text-decoration: none;
+  background-color: gray;
+  
+}
+#mid-sect
+{
+	float: center;
+	width: 52%;
+	height: auto;
+	display: inline-block;
+	background-color: ;
+
+
+}
+#mid-sect a
+{
+	cursor: pointer;
+	background-color: blue;
+	font-family:Montserrat;
+	font-size: 24px;
+	width: 67%;
+	height: 70px;
+	text-decoration: none;
+	color: #fff;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 0px 2px 0px 2px;
+}
+#mid-sect a:hover
+{
+	background-color: #F8C471;
+	
+}
+.span
+{
+	display: inline;
+}
+#frame{
+	
+	background-color: white;
+	display: inline;
+	margin-top: 2px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+
+}
+#right-sect
+{
+	float: right;
+	width: 17%;
+	height: auto;
+	display: inline-block;
+	padding-right: 21px;
+	padding-left: 0px;
+	background-color: gray;
+
+}
+#content
+{
+	width: auto;
+	height: auto;
+	background-color:lightgrey;
+}
+#footer
+{
+	height: 100px;
+	background-color: #117A65;
+	clear: both;
+	color: white;
+
+}
+
+#footer a
+{
+	text-decoration: none;
+	color: white;
+}
+
+#Header
+{
+	
+	background: #117A65;
+	color: white;
+	height: 45px;
+	padding: 8px 0px 6px 20px;
+	clear: both;
+	border-bottom:5px #138D75 solid;
+	
+}
+
+#Header h1
+{
+	display: inline;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	font-size: 32px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 15px;
+
+}
+#Header h1 a
+{
+	color: white;
+	float: left;
+	text-decoration: none;
+	list-style-type: none;
+	display: inline;
+
+}
+
+nav ul
+{
+	display: inline;
+	padding: 17px;
+	float: left;
+}
+
+nav ul li
+{
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left: 17px;
+}
+
+nav ul li a
+{
+	color: white;
+	text-decoration: none;
+}
+#nav
+{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.Home
+{
+	background-color:red;
+	padding: 30px 0px 14px 15px;
+
+}
+.divider
+{
+	background-color: red;
+	height: 5px;
+}
+
+.Profile:hover
+{
+	background-color: blue;
+	padding: 30px 0px 14px 15px;
+}
+
+.Chat:hover
+{
+	background-color: blue;
+	padding: 30px 0px 14px 15px;
+}
+
+
+.Notifications:hover
+{
+	background-color: blue;
+	padding: 30px 0px 14px 15px;
+}
+
+.Settings:hover
+{
+	background-color: blue;
+	padding: 30px 10px 14px 10px;
+}
+.Match:hover
+{
+	
+	padding: 5px 10px 0px 10px;
+}
+/*.img1
+{
+	background-image: url("Photos/social.jpg");
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+}
+
+
+#search input
+{
+	display: inline-flex;
+	font-size: 13px;
+	border: 2px solid #fff;
+	border-radius: 6px;
+	padding: 2px 2px 2px 5px;
+}
+#search button
+{
+	cursor: pointer;
+	border: 2px solid #fff;
+	border-radius: 6px;
+}
+*/
+#search
+{
+	
+    padding: 6px;
+    border: none;
+    margin-top: 12px;
+    color: white;
+    
+}
+#search a
+{
+	text-decoration: none;
+	float: left;
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+@media(min-width:300px) and (max-width:480px)
+{
+   margin-left: auto;
+   margin-right: auto;
+}

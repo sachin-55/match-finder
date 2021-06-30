@@ -1,0 +1,122 @@
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color: #99A3A4;
+}
+h1
+{
+	text-align: center;
+	background-color: #707B7C;
+	width: auto;
+	color: white;
+}
+#list 
+{
+	font-size: 17px;
+	float: left;
+	list-style-type: none;
+	width: auto;
+	height: auto;
+	border: 3px solid ;
+	margin: 0% 5% 5% 5%;
+	background-color: gray;
+
+	
+}
+
+#options li
+{
+	display: inline;
+	list-style-type: none;
+	padding: 10.5px 6px 15% 9px;
+	border-left: 2px solid;
+	font-size: 19.89px;
+	clear: both;
+
+
+}
+#options
+{
+	background-color: gray;
+	display: inline;
+	float: right;
+	height: auto;
+	clear: both;
+	padding: 10px 0px 7px 0px;
+	
+}
+
+#text
+{
+	background-color: gray;
+	border-right: 2px solid black;
+	float: left;
+	list-style-type: none;
+	display: inline-block;
+	text-align: left;
+	border-top: 2px solid black;
+	padding: 0px 5px 0px 10px;
+	font-size: 18px;
+	height: auto;
+	color: white;
+
+}
+
+#radio
+{
+	float:right;
+	clear: both;
+	padding: 4px 2px 0px 0px;
+	background-color: #E5E8E8;
+	border-top: 2px solid black;
+	display: inline-block;
+	font-size: 18px;
+	height: auto;
+
+}
+#select
+{
+	clear: both;
+	width: auto;
+	height: auto;
+	margin: 0% 7.37% 0% 5%;
+	padding: 5px;
+	font-size: 25px;
+	background-color: #5F6A6A;
+	font-family: monospace;
+	text-align: center;
+}
+#select  select
+{
+	background-color: lightgray;
+	width: auto;
+	height: auto;
+	margin-left: 20%;
+}
+#select table
+{
+	font-size: 21px;
+
+}
+u
+{
+	color: white;
+}
+#btn input
+{
+	float: right;
+	margin: 0% 8% 5% 0% ;
+	cursor: pointer;
+	clear: both;
+	padding:5px;
+	border-radius: 50%;
+	font-size: 20px; 
+	background-color: #717D7E;
+}

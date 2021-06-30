@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700');
+body
+{
+	margin: 0;
+}
+*
+{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+.body
+{
+	background-color: white;
+	width: 70%;
+	float: left;
+	margin:5px;
+	padding:5px;
+	font-size: 20px;
+	
+
+}
+
+.img img
+{
+	height: 200px;
+	width: 24%;
+	float: right;
+	border: 2px solid green;
+	border-radius: 30%;
+	margin: 15px 10px 0px 5px;
+
+}
+.btn
+{
+	clear: both;
+	padding: 5px;
+	
+}
+.btn input
+{
+	border: 2px solid gray;
+	border-radius: 6px;
+	background-color: blue;
+	color: white;
+	cursor: pointer;
+}
+.content
+{
+	background-color: #45B39D;
+	border: 2px solid gray;
+	border-radius: 6px;
+}

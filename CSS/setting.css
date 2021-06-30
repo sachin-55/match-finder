@@ -1,0 +1,59 @@
+
+
+.txt
+{
+	float: left;
+	background-color: lightgray;
+	padding: 7px;
+	width: 86.13%;
+	border: 1px solid gray;
+
+}
+
+.edit
+{
+	float: right;
+	padding: 10px;
+	margin-top: 2%;
+	border: 1px solid gray;
+	border-radius: 10px;
+	cursor: pointer;
+
+
+}
+select
+{
+	width:31%;
+}
+
+.profile
+{
+	font-size: 17px;
+	padding: 5px;
+}
+.profile h2
+{
+	text-align: center;
+	font-size: 30px;
+	border-bottom: 2px solid;
+}
+.notice
+{
+	float: left;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 7px;
+	border:1px solid;
+	margin:3px 2px 7px 3px;
+	background-color: #85C1E9;
+	width: 99%;
+
+}
+.notice a
+{
+	text-decoration: none;
+	float: left;
+	padding: 5px;
+	color: white;
+	font-size: 17px;	
+}
